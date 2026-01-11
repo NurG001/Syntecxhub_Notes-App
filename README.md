@@ -1,10 +1,10 @@
-Here is the updated **README.md** for your project. This version includes dedicated sections for visual previews, referencing the screenshots and designs you've used throughout the development process.
-
----
-
 # 📝 Notes App
 
 A high-performance, immersive notes application built with React and Tailwind CSS. This app features a "Pocket-inspired" design with a focus on bold typography, vibrant categorization, and fluid user interactions.
+
+
+## 🚀 Live Demo
+**[View the Live App Here](https://notes-app-nur.vercel.app/)** ---
 
 ## 🖼️ Visual Preview
 
