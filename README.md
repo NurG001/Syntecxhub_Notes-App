@@ -4,7 +4,9 @@ A high-performance, immersive notes application built with React and Tailwind CS
 
 
 ## 🚀 Live Demo
-**[View the Live App Here](https://notes-app-nur.vercel.app/)** ---
+**[View the Live App Here](https://notes-app-nur.vercel.app/)** 
+
+---
 
 ## 🖼️ Visual Preview
 
