@@ -10,13 +10,19 @@ A high-performance, immersive notes application built with React and Tailwind CS
 
 ## 🖼️ Visual Preview
 
-### Desktop Dashboard (Light & Dark Mode)
+### 📱 Interface Preview
 
-The interface features a high-visibility sidebar and a dynamic grid layout that adapts to your theme preference.
-
-| Light Mode | Dark Mode |
+| Desktop View | Mobile View  |
 | --- | --- |
-|  |  |
+| <img src="https://raw.githubusercontent.com/NurG001/mine/refs/heads/main/project%20img/notes-app/light.jpg" width="100%" alt="Desktop View" /> | <img src="https://raw.githubusercontent.com/NurG001/mine/refs/heads/main/project%20img/notes-app/mobile.jpg" width="100%" alt="Mobile View" /> |
+
+---
+
+| Dark Mode | Light Mode  |
+| --- | --- |
+| <img src="https://raw.githubusercontent.com/NurG001/mine/refs/heads/main/project%20img/notes-app/dark.jpg" width="100%" alt="Desktop View" /> | <img src="https://raw.githubusercontent.com/NurG001/mine/refs/heads/main/project%20img/notes-app/light.jpg" width="100%" alt="Mobile View" /> |
+
+---
 
 ### Responsive Design
 
